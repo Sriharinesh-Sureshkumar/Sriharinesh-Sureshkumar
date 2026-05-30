@@ -38,11 +38,8 @@ My current obsession is making LLMs actually reliable — anti-hallucination pip
 
 ### ⚡ Fun facts
 
-- I ranked AIR 15,780 in JEE Advanced 2024 — and still ended up in Mining Engineering (life is funny)
-- I built an AI system for student mental health before I'd taken a single formal ML course
 - NCC Cadet — somehow the discipline from morning drills helps with debugging
 - I debug better at 2am than at 2pm
-- Bad loss curves don't scare me anymore. Much.
 
 ---
 
@@ -54,4 +51,3 @@ My current obsession is making LLMs actually reliable — anti-hallucination pip
 
 ---
 
-*Pre-final year at IIT KGP | Obsessed with learning, building, and writing code that thinks — too many epochs, too little sleep, and somehow still shipping.*
