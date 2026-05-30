@@ -1,53 +1,56 @@
 # Hey there! 👋
 
-I'm Sriharinesh, a pre-final year undergrad at IIT Kharagpur obsessed with machine learning, LLM systems, and building AI that solves real problems.
+I'm Sriharinesh, a pre-final year undergrad at IIT Kharagpur studying Mining Engineering — and spending most of my time building ML systems anyway.
 
-If an idea is worth building, I'll stay up until 2am debugging it.
-
-My current obsession is making LLMs actually reliable — anti-hallucination pipelines, hybrid retrieval, the works. I think the most interesting problems in AI aren't the benchmarks, they're the gaps between what a model can do in a paper and what it can do in the real world.
+I'm drawn to the gap between what AI can do in a research paper and what it can actually do in the real world. That's the space I build in.
 
 ---
 
-### 🔨 What I'm currently working on
+### 🧠 What I do
 
-- **PEACE HAI YAAR** — an AI mental health companion for IIT campuses. Built around an emotional memory engine, a drift detector that notices when you go quiet, and a responsible crisis layer. Real users. Real problem.
-- **Research Document Intelligence System** — a 7-layer RAG pipeline for research paper comprehension. Hybrid search, cross-encoder reranking, LLM-as-judge faithfulness verification. Evaluated with RAGAS.
-- **Graph-Based Logistics ETA System** — modelling delivery networks as graphs, predicting delays with LightGBM.
+I build **production-grade ML and LLM systems** — the kind that have to work reliably, not just on benchmarks.
+
+My work sits at the intersection of:
+- **NLP & LLMs** — retrieval-augmented generation, hybrid search, anti-hallucination pipelines
+- **Applied ML** — anomaly detection, predictive modelling, feature engineering
+- **Responsible AI** — systems that are not just technically sound but safe and human-centred
+
+If a problem involves language, retrieval, or getting a model to behave in the real world — I'm interested.
 
 ---
 
-### 🧰 Tools I live in
+### 🔨 Things I build with
 
-**Languages:** Python, C, C++, SQL
+**Languages:** Python · C · C++ · SQL
 
-**ML stack:** PyTorch · Scikit-learn · Pandas · NumPy · HuggingFace Transformers · Sentence-Transformers
+**ML:** PyTorch · Scikit-learn · Pandas · NumPy · HuggingFace Transformers · Sentence-Transformers
 
-**LLM & RAG:** LlamaIndex · ChromaDB · NVIDIA NIM · BM25 · Reciprocal Rank Fusion · Pathway · Anam.ai
+**LLM & RAG:** LlamaIndex · ChromaDB · NVIDIA NIM · BM25 · Cross-Encoder Reranking · Pathway
 
 **Tools:** FastAPI · Streamlit · Git · Jupyter · MySQL · VS Code
 
 ---
 
-### 📚 Currently learning
+### 📌 A few things about me
 
-- Coursera ML Specialization — Andrew Ng
-- Mathematics for ML & Data Science — Luis Serrano
-- DSA — Striver A2Z Sheet (121+ problems and counting)
+- Pre-final year at IIT Kharagpur
+- I work on projects that solve real problems, not just interesting ones
+- Currently deep in DSA, ML theory, and building things that ship
 
 ---
 
 ### ⚡ Fun facts
 
-- NCC Cadet — somehow the discipline from morning drills helps with debugging
 - I debug better at 2am than at 2pm
+- NCC Cadet — the discipline from morning drills somehow helps with 3am debugging sessions
 
 ---
 
-### 📬 Find me here
+### 📬 Let's connect
 
 - 📧 sriharinesh06.24@kgpian.iitkgp.ac.in
 - 💼 [linkedin.com/in/sriharineshsureshkumar](https://linkedin.com/in/sriharineshsureshkumar)
-- 🐙 You're already here
+- 🐙 Explore the pinned repos below — they tell the story better than I can
 
 ---
 
